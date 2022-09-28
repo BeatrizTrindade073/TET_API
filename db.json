@@ -1,0 +1,16 @@
+{
+  "pessoa": [
+    { "idpessoa": 1, "nome": "Beatriz Trindade", "idade": "17", "sexo": "feminino", "idprof":"1"},
+    { "idpessoa": 2, "nome": "Vanessa Reis", "idade": "36", "sexo": "feminino", "idprof":"3"},
+    { "idpessoa": 3, "nome": "Pedro Henrique Ferreira", "idade": "21", "sexo": "masculino","idprof":"2" },
+    { "idpessoa": 4, "nome": "Renan Felliphe de Moura", "idade": "18", "sexo": "masculino", "idprof":"4" },
+    { "idpessoa": 5, "nome": "Gabriel Oliveira ", "idade": "32", "sexo": "masculino" , "idprof":"5"}
+  ],
+  "profissao": [
+    { "idprof": 1, "ocupacao": "Programador", "empresa": "Energisa", "salariomedio": "R$5.861,00"},
+    { "idprof": 2, "ocupacao": "Engenheiro Elétrico", "empresa": "Energisa", "salariomedio": "R$ 8.911,00"},
+    { "idprof": 3, "ocupacao": "Atendente de Caixa", "empresa": "Supermercado Bahamas", "salariomedio": "R$1334,00"},
+    { "idprof": 4, "ocupacao": "Estagiário", "empresa": "RBM Web", "salariomedio": "R$733,83"}, 
+    { "idprof": 5, "ocupacao": "Professor", "empresa": "Sheffield Idiomas", "salariomedio": "R$5000,00"}
+  ]
+}
